@@ -44,10 +44,18 @@
     },
     "description": "portfolio",
     "main": "index.js",
-    "repository": "https://github.com/salimstephen/react-portfolio.git",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salimstephen/react-portfolio.git"
+    },
     "author": "salimstephen <stephensalim505@gmail.com>",
     "license": "MIT",
     "devDependencies": {
         "gh-pages": "^6.2.0"
-    }
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/salimstephen/react-portfolio/issues"
+    },
+    "homepage": "https://github.com/salimstephen/react-portfolio#readme"
 }
